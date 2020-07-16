@@ -3,6 +3,7 @@
   "rules": {
     "react/jsx-filename-extension": "off",
     "no-unused-vars": "warn",
-    "object-curly-newline": "off"
+    "object-curly-newline": "off",
+    "linebreak-style": "off"
   }
 }
